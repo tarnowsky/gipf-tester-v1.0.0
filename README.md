@@ -1,7 +1,6 @@
 # gipf-tester-v1.0.0
 
-To jest repozytorium zawierające skrypt testujący program GIPF. 
-Skrypt testuje różne funkcje i scenariusze programu GIPF, aby upewnić się, że działa poprawnie.
+Rpozytorium zawierające skrypt testujący projekt GIPF. 
 
 ## Instrukcje
 
