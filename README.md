@@ -17,16 +17,15 @@ cd gipf-tester-v1.0.0
 
 3. Skopij skrypt to katalogu ze swoim projektem:
 4. Uruchom skrypt:
-+ Linux:
-./tester.sh [A] [B]
-A - nazwa pliku wykonywalnego. Np. gipf jeżeli plik nazywa się gipf.exe
-B - opcjonalne. Nazwa katalogu z testami umieszczonego w projekcie. Domyślnie - ./testy
-
-+ Windows:
-Otwórz katalog, w którym znajduje się skrypt w powershellu, a następnie wpisz:
-bash ./tester.sh [A] [B]
-A - nazwa pliku wykonywalnego. Np. gipf jeżeli plik nazywa się gipf.exe
-B - opcjonalne. Nazwa katalogu z testami umieszczonego w projekcie. Domyślnie - ./testy
+  + Linux:
+    > ./tester.sh [A] [B]
+      A - nazwa pliku wykonywalnego. Np. gipf jeżeli plik nazywa się gipf.exe
+      B - opcjonalne. Nazwa katalogu z testami umieszczonego w projekcie. Domyślnie - ./testy
+  + Windows:
+    Otwórz katalog, w którym znajduje się skrypt w powershellu, a następnie wpisz:
+      > bash ./tester.sh [A] [B]
+        A - nazwa pliku wykonywalnego. Np. gipf jeżeli plik nazywa się gipf.exe
+        B - opcjonalne. Nazwa katalogu z testami umieszczonego w projekcie. Domyślnie - ./testy
 
 ## Kontrybucje
 
